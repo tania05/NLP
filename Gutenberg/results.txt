@@ -1,3 +1,7 @@
+SVM (Linear) & CountVectorizer
+Full Document
+0.641836734694
+
 MultinomialNB & CountVectorizer
 Full Document
 Train: 2056
@@ -14,7 +18,8 @@ Test: 980
 Features: 376722
 0.322448979592
 
-SVM (RBF) & TdidfVectorizer
+SVM (RBF) & TfidfVectorizer
+Full Document
 0.030612244898
 
 MultinomialNB & CountVectorizer
