@@ -1,0 +1,38 @@
+MultinomialNB & CountVectorizer
+Full Document
+Train: 2056
+Test: 980
+(2056, 376722)
+Features: 376722
+0.634693877551
+
+SVM (RBF) & CountVectorizer
+Full Document
+Train: 2056
+Test: 980
+(2056, 376722)
+Features: 376722
+0.322448979592
+
+SVM (RBF) & TdidfVectorizer
+0.030612244898
+
+MultinomialNB & CountVectorizer
+Per Sentence
+Train: 7297438
+Test: 3907713
+(7297438, 376722)
+Features: 376722
+0.203003649449
+
+MultinomialNB & TfidfVectorizer
+Full Document
+Train: 2056
+Test: 980
+(2056, 376722)
+Features: 376722
+0.205102040816
+
+BernoulliNB
+Full Doc
+0.190816326531

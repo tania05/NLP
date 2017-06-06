@@ -37,8 +37,6 @@ data_test, y_test = load_data('test', full_doc=True)
 print len(data_test)
 print len(y_test)
 
-# vectorizer = CountVectorizer(encoding='iso-8859-1', stop_words='english',
-#                             lowercase=True, binary=True)
 vectorizer = CountVectorizer(encoding='iso-8859-1', stop_words='english',
                             lowercase=True)
 
