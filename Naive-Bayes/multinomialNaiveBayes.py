@@ -24,13 +24,24 @@ with open("../Dataset/literary/literary/labels.txt", 'r') as labelFile:
                 X_test.append(f.read())
                 y_test.append(authorlist.index(author))
 
-vectorizer = CountVectorizer(lowercase=True, stop_words=None,  max_df=1.0, min_df=1, max_features=None,  binary=True)
+def regex_tokenizer(doc):
+    """Return a function that split a string in sequence of tokens"""
+    return doc.split(' ')
+
+vectorizer = CountVectorizer(lowercase=False, stop_words=None,  max_df=1.0, min_df=1, max_features=None, tokenizer=regex_tokenizer )
 
 X_train = vectorizer.fit_transform(X_train).toarray()
 print X_train.shape
 X_test = vectorizer.transform(X_test).toarray()
 feature_names = vectorizer.get_feature_names()
-clf = MultinomialNB(alpha=1.0)
+clf = MultinomialNB()
 clf.fit(X_train, y_train)
 scr = clf.score(X_test, y_test)
 print scr
+
+
+feature_names = vectorizer.get_feature_names()
+for i, class_label in enumerate(clf.classes_):
+    top10 = np.argsort(clf.coef_[i])[-30:]
+    print("%s: %s" % (class_label,
+	  " ".join(feature_names[j] for j in top10)))
