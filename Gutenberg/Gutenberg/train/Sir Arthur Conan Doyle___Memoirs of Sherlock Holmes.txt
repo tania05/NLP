@@ -813,7 +813,7 @@ forward and touched the lad upon the sleeve.
 
 "Have you noticed anything amiss with them of late?"
 
-"Well, , not of much account; but three of them have gone lame, sir."
+"Well, , not of much account; but three of them have gone lame, ."
 
 I could see that Holmes was extremely pleased, for he chuckled and
 rubbed his hands together.
@@ -1139,7 +1139,7 @@ he. "Has this gentleman gone, then?"
 
 "How long did he wait?"
 
-"Half an hour, . He was a very restless gentleman, sir, a-walkin'
+"Half an hour, . He was a very restless gentleman, , a-walkin'
 and a-stampin' all the time he was here. I was waitin' outside the door,
 , and I could hear him. At last he outs into the passage, and he
 cries, 'Is that man never goin' to come?' Those were his very words,
@@ -4376,7 +4376,7 @@ turn which neither of us could have anticipated. We were at breakfast
 when the Colonel's butler rushed in with all his propriety shaken out of
 him.
 
-"Have you heard the news, ?" he gasped. "At the Cunningham's sir!"
+"Have you heard the news, ?" he gasped. "At the Cunningham's !"
 
 "Burglary!" cried the Colonel, with his coffee-cup in mid-air.
 
@@ -4385,7 +4385,7 @@ him.
 The Colonel whistled. "By Jove!" said he. "Who's killed, then? The J.P.
 or his son?"
 
-"Neither, . It was William the coachman. Shot through the heart, sir,
+"Neither, . It was William the coachman. Shot through the heart, ,
 and never spoke again."
 
 "Who shot him, then?"

@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 
-import matplotlib.pyplot as plt; plt.rcdefaults()
 import numpy as np
-import matplotlib.pyplot as plt
 
 from itertools import chain
 import shutil

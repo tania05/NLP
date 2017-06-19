@@ -4293,7 +4293,7 @@ on such occasions.
 'Young man,' said the Deacon to the servant, filling a glass, 'ye'll no
 be the waur o' this, after your ride.'
 
-'Not a feather, ; thank ye, your very good health, sir.'
+'Not a feather, ; thank ye, your very good health, .'
 
 'And wha may your master be, friend?'
 
@@ -4798,7 +4798,7 @@ Had Glossin been alone, he would probably have slunk off; but the
 consciousness that a stranger was present, besides the person who came
 with him (a sort of land-surveyor), determined him to resort to
 impudence. The task, however, was almost too hard even for his
-effrontery--'--sir--Mr. Bertram, sir, you should not blame me, but
+effrontery--'----Mr. Bertram, sir, you should not blame me, but
 your own imprudence, --'
 
 The indignation of Mannering was mounting very high. ',' he said to
@@ -7591,7 +7591,7 @@ prey. As he observed one man struggling with a very weighty salmon which
 he had speared, but was unable completely to raise from the water, Brown
 advanced close to the bank to see the issue of his exertions. The man who
 held the torch in this instance was the huntsman, whose sulky demeanour
-Brown had already noticed with surprise. 'Come here, ! come here, sir!
+Brown had already noticed with surprise. 'Come here, ! come here, !
 look at this ane! He turns up a side like a sow.' Such was the cry from
 the assistants when some of them observed Brown advancing.
 
@@ -12691,7 +12691,7 @@ address; 'I landed a quarter of an hour since in the little harbour
 beneath the castle, and was employing a moment's leisure in viewing these
 fine ruins. I trust there is no intrusion?'
 
-'Intrusion, ? No, sir,' said Glossin, in some degree recovering his
+'Intrusion, ? No, ,' said Glossin, in some degree recovering his
 breath, and then whispered a few words into his companion's ear, who
 immediately left him and descended towards the house. 'Intrusion, ?
 no, ; you or any gentleman are welcome to satisfy your curiosity.'
@@ -12942,7 +12942,7 @@ Scotia badge depending from the shield:--
 
 ' Robert Hazlewood of Hazlewood returns Mr. G. Glossin's compliments,
 and thanks him for the trouble he has taken in a matter affecting the
-safety of  Robert's family. Sir R.H. requests Mr. G.G. will have the
+safety of  Robert's family.  R.H. requests Mr. G.G. will have the
 goodness to bring the prisoner to Hazlewood House for examination, with
 the other proofs or declarations which he mentions. And after the
 business is over, in case Mr. G.G. is not otherwise engaged,  R. and
@@ -13027,7 +13027,7 @@ other gentlemen, whose domestic and family affairs require less constant
 superintendence, attention, and management than mine.'
 
 Of course, whatever small assistance Mr. Glossin could render was
-entirely at  Robert Hazlewood's service; but, as Sir Robert
+entirely at  Robert Hazlewood's service; but, as  Robert
 Hazlewood's name stood high in the list of the faculty, the said Mr.
 Glossin could not presume to hope it could be either necessary or useful.
 
@@ -13066,7 +13066,7 @@ the injury as unintentional, so that the fellow may be immediately set at
 liberty to do more mischief.'
 
 'I have not the honour to know the gentleman who now holds the office of
-king's advocate,' replied  Robert, gravely; 'but I presume, sir--nay,
+king's advocate,' replied  Robert, gravely; 'but I presume, --nay,
 I am confident, that he will consider the mere fact of having wounded
 young Hazlewood of Hazlewood, even by inadvertency, to take the matter in
 its mildest and gentlest, and in its most favourable and improbable,
@@ -13176,7 +13176,7 @@ trouble to interrogate me?' said the prisoner; 'for the honest gentlemen
 who have brought me here have not been pleased to furnish any information
 upon that point.'
 
-'And pray, ,' answered Sir Robert, 'what has my name and quality to do
+'And pray, ,' answered  Robert, 'what has my name and quality to do
 with the questions I am about to ask you?'
 
 'Nothing, perhaps, ,' replied Bertram; 'but it may considerably
@@ -13208,7 +13208,7 @@ you, before we part, a more humble title.'
 'If you do, ,' replied his prisoner, 'I shall willingly submit to any
 punishment which such an imposture shall be thought to deserve.'
 
-'Well, , we shall see,' continued Sir Robert. 'Do you know young
+'Well, , we shall see,' continued  Robert. 'Do you know young
 Hazlewood of Hazlewood?'
 
 'I never saw the gentleman who I am informed bears that name excepting
@@ -13235,8 +13235,8 @@ chastisement than I deed, though I am glad to understand it is like to
 prove no more than his unprovoked folly deserved.'
 
 'And so, ,' said the Baronet, every feature swoln with offended
-dignity, 'you, , admit, sir, that it was your purpose, sir, and your
-intention, , and the real jet and object of your assault, sir, to
+dignity, 'you, , admit, , that it was your purpose, sir, and your
+intention, , and the real jet and object of your assault, , to
 disarm young Hazlewood of Hazlewood of his gun, , or his
 fowling-piece, or his fuzee, or whatever you please to call it, , upon
 the king's highway, ? I think this will do, my worthy neighbour! I
@@ -13246,14 +13246,14 @@ think he should stand committed?'
 insinuating tone; 'but if I might presume to hint, there was something
 about these smugglers.'
 
-'Very true, good . And besides, sir, you, Vanbeest Brown, who call
+'Very true, good . And besides, , you, Vanbeest Brown, who call
 yourself a captain in his Majesty's service, are no better or worse than
 a rascally mate of a smuggler!'
 
 'Really, ,' said Bertram, 'you are an old gentleman, and acting under
 some strange delusion, otherwise I should be very angry with you.'
 
-'Old gentleman, ! strange delusion, sir!' said Sir Robert, colouring
+'Old gentleman, ! strange delusion, !' said Sir Robert, colouring
 with indignation. 'I protest and declare--Why, , have you any papers
 or letters that can establish your pretended rank and estate and
 commission?'
@@ -13293,8 +13293,8 @@ the ruins of Derncleugh?--in the ruins of Derncleugh, ?'
 'I have told you that I do not intend answering that question,' replied
 Bertram.
 
-'Well, , then you will stand committed, sir,' said Sir Robert, 'and be
-sent to prison, , that's all, sir. Have the goodness to look at these
+'Well, , then you will stand committed, ,' said Sir Robert, 'and be
+sent to prison, , that's all, . Have the goodness to look at these
 papers; are you the Vanbeest Brown who is there mentioned?'
 
 It must be remarked that Glossin had shuffled among the papers some
@@ -13346,7 +13346,7 @@ coins and valuable articles of different kinds. Perhaps,  Robert, you
 might think it right to ask how he came by property of a description
 which seldom occurs?'
 
-'You, , Mr. Vanbeest Brown, sir, you hear the question, sir, which the
+'You, , Mr. Vanbeest Brown, , you hear the question, sir, which the
 gentleman asks you?'
 
 'I have particular reasons for declining to answer that question,'
@@ -13389,7 +13389,7 @@ private reasons, but under whose command I served some time in India, and
 who is too much a man of honour to refuse his testimony to my character
 as a soldier and gentleman.'
 
-'And who is this doughty witness, pray, ?' said Sir Robert,' some
+'And who is this doughty witness, pray, ?' said  Robert,' some
 half-pay quartermaster or sergeant, I suppose?'
 
 'Colonel Guy Mannering, late of the---regiment, in which, as I told you,
@@ -14765,7 +14765,7 @@ House by a set of smugglers, gipsies, and other desperadoes.
 'And what, my dear ,' said his son, 'should direct the fury of such
 persons against ours rather than any other house in the country?'
 
-'I should rather think, suppose, and be of opinion, ,' answered Sir
+'I should rather think, suppose, and be of opinion, ,' answered 
 Robert, 'with deference to your wisdom and experience, that on these
 occasions and times the vengeance of such persons is directed or levelled
 against the most important and distinguished in point of rank, talent,
@@ -14811,7 +14811,7 @@ myself---'
 ', it does not concern you but in a very secondary degree; that is, it
 does not concern you, as a giddy young fellow who takes pleasure in
 contradicting his father; but it concerns the country, , and the
-county, , and the public, sir, and the kingdom of Scotland, in so far
+county, , and the public, , and the kingdom of Scotland, in so far
 as the interest of the Hazlewood family, , is committed and interested
 and put in peril, in, by, and through you, . And the fellow is in safe
 custody, and Mr. Glossin thinks---'
@@ -14880,7 +14880,7 @@ your house.'
 mingled displeasure and surprise; 'and YOU will be answerable for it!
 And, pray, who are you, , that I should take your security and caution
 and pledge, official or personal, for the safety of Hazlewood House? I
-think, , and believe, sir, and am of opinion, sir, that if any one of
+think, , and believe, , and am of opinion, sir, that if any one of
 these family pictures were deranged or destroyed or injured it would be
 difficult for me to make up the loss upon the guarantee which you so
 obligingly offer me.'
@@ -14899,12 +14899,12 @@ Portanferry until it is late.'
 
 As Mr. Mac-Morlan was the superior magistrate, and expressed himself
 peremptory in the purpose of acting as such, the Baronet, though highly
-offended, could only say, 'Very well, ; it is very well. Nay, sir,
-take them all with you; I am far from deing any to be left here, sir.
-We, , can protect ourselves, sir. But you will have the goodness to
-observe, , that you are acting on your own proper risk, sir, and
-peril, , and responsibility, sir, if anything shall happen or befall
-to Hazlewood House, , or the inhabitants, sir, or to the furniture and
+offended, could only say, 'Very well, ; it is very well. Nay, ,
+take them all with you; I am far from deing any to be left here, .
+We, , can protect ourselves, . But you will have the goodness to
+observe, , that you are acting on your own proper risk, , and
+peril, , and responsibility, , if anything shall happen or befall
+to Hazlewood House, , or the inhabitants, , or to the furniture and
 paintings, .'
 
 'I am acting to the best of my judgment and information,  Robert,'
@@ -17684,7 +17684,7 @@ his safety lies in keeping his own counsel and mine; and my presence,
 besides, will be a proof of confidence and innocence. If I must lose the
 estate, I must; but I trust better things.'
 
-He entered with a profound salutation to  Robert Hazlewood. Sir
+He entered with a profound salutation to  Robert Hazlewood. 
 Robert, who had rather begun to suspect that his plebeian neighbour had
 made a cat's paw of him, inclined his head stiffly, took snuff, and
 looked another way.

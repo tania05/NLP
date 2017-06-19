@@ -1785,7 +1785,7 @@ The American became interested.  There was "copy" in the air.
 
 "Sit down," said he.
 
-"No, , begging your pardon, sir, I'd very much rather stand."
+"No, , begging your pardon, , I'd very much rather stand."
 
 "Well, do as you please.  If you've got anything to say, get ahead with
 it."
@@ -1822,7 +1822,7 @@ the very best he can in return for it."
 
 "Well," said the American, "it's not quite as we see it in America."
 
-"That's right, .  I was over there last year with Sir Henry--in New
+"That's right, .  I was over there last year with  Henry--in New
 York, , and I saw something of the men-servants and their ways.  They
 were paid for service, , and they did not give what they were paid
 for.  You talk about self-respect, , in this article.  Well now, my
@@ -2313,7 +2313,7 @@ to whether the result is worth a thousand pounds, I can make no promise."
 
 "I will be an exacting judge, nephew."
 
-"Very good, ; I should not desire otherwise.  If things go as I hope,
+"Very good, ; I should not dee otherwise.  If things go as I hope,
 his lordship will not show face in St. James's Street for a year to come.
 I will now, if I may, give you your instructions."
 
@@ -4293,7 +4293,7 @@ have had the impertience to ransack it in my absence this afternoon."
 
 He started, and his features showed the most intense excitement.  "I
 swear to you that I had no hand in it!" he cried.  "I have never set foot
-in your house in my life.  Oh, , sir, if you will but believe me,
+in your house in my life.  Oh, , , if you will but believe me,
 there is a danger hanging over you, and you would do well to be careful."
 
 "I have had enough of you," I said.  "I saw that cowardly blow you struck

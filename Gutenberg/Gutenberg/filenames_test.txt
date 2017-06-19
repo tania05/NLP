@@ -3,13 +3,6 @@ Abraham Lincoln___The Writings of Abraham Lincoln, Volume 4.txt
 Abraham Lincoln___The Writings of Abraham Lincoln, Volume 5: 1858-1862.txt
 Abraham Lincoln___The Writings of Abraham Lincoln, Volume 6: 1862-1863.txt
 Abraham Lincoln___The Writings of Abraham Lincoln, Volume 7: 1863-1865.txt
-Agatha Christie___The Secret Adversary.txt
-Albert Einstein___Sidelights on Relativity.txt
-Aldous Huxley___The Defeat of Youth and Other Poems.txt
-Alexander Pope___The Rape of the Lock and Other Poems.txt
-Alexander Pope___The Works of Alexander Pope, Volume 1.txt
-Alfred Russel Wallace___The Malay Archipelago, Volume 1.txt
-Alfred Russel Wallace___The Malay Archipelago, Volume 2.txt
 Ambrose Bierce___The Damned Thing.txt
 Ambrose Bierce___The Devil's Dictionary.txt
 Ambrose Bierce___The Fiend's Delight.txt
@@ -56,7 +49,6 @@ Anthony Trollope___The Three Clerks.txt
 Anthony Trollope___The Vicar of Bullhampton.txt
 Anthony Trollope___The Warden.txt
 Anthony Trollope___The Way We Live Now.txt
-Arnold Joseph Toynbee___Turkey: A Past and a Future.txt
 Baronness Orczy___The Nest of the Sparrowhawk.txt
 Baronness Orczy___The Old Man in the Corner.txt
 Baronness Orczy___The Scarlet Pimpernel.txt
@@ -74,13 +66,6 @@ Benjamin Disraeli___The Voyage of Captain Popanilla.txt
 Benjamin Disraeli___The Young Duke.txt
 Benjamin Disraeli___Venetia.txt
 Benjamin Disraeli___Vivian Grey.txt
-Benjamin Franklin___Autobiography of Benjamin Franklin, Version 3.txt
-Benjamin Franklin___Autobiography of Benjamin Franklin, Version 4.txt
-Bertrand Russell___The Practice and Theory of Bolshevism.txt
-Bertrand Russell___The Problem of China.txt
-Bertrand Russell___The Problems of Philosophy.txt
-Bram Stoker___The Lair of the White Worm.txt
-Bram Stoker___The Man.txt
 Bret Harte___Susy, A Story of the Plains.txt
 Bret Harte___Tales of the Argonauts.txt
 Bret Harte___Tales of Trail and Town.txt
@@ -138,8 +123,6 @@ Charles Kingsley___Westminster Sermons.txt
 Charles Kingsley___Westward Ho!.txt
 Charles Kingsley___Women and Politics.txt
 Charles Kingsley___Yeast: A Problem.txt
-Charlotte Bronte___The Professor.txt
-Charlotte Bronte___Villette.txt
 Charlotte Mary Yonge___The Herd Boy and His Hermit.txt
 Charlotte Mary Yonge___The Lances of Lynwood.txt
 Charlotte Mary Yonge___The Little Duke.txt
@@ -176,10 +159,6 @@ D H Lawrence___Touch and Go.txt
 D H Lawrence___Twilight in Italy.txt
 D H Lawrence___Wintry Peacock.txt
 D H Lawrence___Women in Love.txt
-Edgar Allan Poe___The Works of Edgar Allan Poe Volume 2.txt
-Edgar Allan Poe___The Works of Edgar Allan Poe Volume 3.txt
-Edgar Allan Poe___The Works of Edgar Allan Poe Volume 4.txt
-Edgar Allan Poe___The Works of Edgar Allan Poe Volume 5.txt
 Edgar Rice Burroughs___The Mucker.txt
 Edgar Rice Burroughs___The Oakdale Affair.txt
 Edgar Rice Burroughs___The Outlaw of Torn.txt
@@ -227,13 +206,6 @@ Edward Stratemeyer___To Alaska for Gold.txt
 Edward Stratemeyer___True to Himself.txt
 Edward Stratemeyer___Young Auctioneers.txt
 Edward Stratemeyer___Young Hunters of the Lake.txt
-Elizabeth Barrett Browning___The Poetical Works of Elizabeth Barrett Browning Volume II.txt
-Elizabeth Barrett Browning___The Poetical Works of Elizabeth Barrett Browning Volume I.txt
-Elizabeth Barrett Browning___The Poetical Works of Elizabeth Barrett Browning Volume IV.txt
-Emily Bronte___Wuthering Heights.txt
-Eugene O_Neill___The Hairy Ape.txt
-Eugene O_Neill___The Straw.txt
-Ezra Pound___Hugh Selwyn Mauberley.txt
 Frank Richard Stockton___The House of Martha.txt
 Frank Richard Stockton___The Lady, or the Tiger?.txt
 Frank Richard Stockton___The Late Mrs. Null.txt
@@ -288,7 +260,6 @@ George Eliot___The Essays of George Eliot.txt
 George Eliot___The Lifted Veil.txt
 George Eliot___The Mill on the Floss.txt
 George Eliot___Tom and Maggie Tulliver.txt
-George Washington___State of the Union Addresses of George Washington.txt
 G K Chesterton___The New Jerusalem.txt
 G K Chesterton___The Trees of Pride.txt
 G K Chesterton___The Victorian Age in Literature.txt
@@ -327,17 +298,6 @@ Harold Bindloss___Thurston of Orchard Valley.txt
 Harold Bindloss___Vane of the Timberlands.txt
 Harold Bindloss___Winston of the Prairie.txt
 Harold Bindloss___Wyndham's Pal.txt
-Harriet Elizabeth Beecher Stowe___The May Flower, and Miscellaneous Writings.txt
-Harriet Elizabeth Beecher Stowe___The Pearl of Orr's Island.txt
-Harriet Elizabeth Beecher Stowe___Uncle Tom's Cabin.txt
-Harriet Elizabeth Beecher Stowe___Uncle Tom's Cabin, Young Folks' Edition.txt
-Hector Hugh Munro___The Toys of Peace.txt
-Hector Hugh Munro___The Unbearable Bassington.txt
-Hector Hugh Munro___When William Came.txt
-Henry David Thoreau___Walden, and On The Duty Of Civil Disobedience.txt
-Henry David Thoreau___Walking.txt
-Henry David Thoreau___Wild Apples.txt
-Henry Francis Cary___Lives of the English Poets.txt
 Henry James___The Madonna of the Future.txt
 Henry James___The Marriages.txt
 Henry James___The Middle Years.txt
@@ -392,18 +352,11 @@ Herbert George Wells___Twelve Stories and a Dream.txt
 Herbert George Wells___War and the Future.txt
 Herbert George Wells___What is Coming?.txt
 Herbert George Wells___When the Sleeper Wakes.txt
-Herbert Spencer___The Philosophy of Style.txt
-Herbert Spencer___The Right To Ignore The State.txt
 Herman Melville___Redburn. His First Voyage.txt
 Herman Melville___The Confidence-Man.txt
 Herman Melville___The Piazza Tales.txt
 Herman Melville___Typee.txt
 Herman Melville___White Jacket.txt
-Howard Pyle___The Ruby of Kishmoor.txt
-Howard Pyle___The Story of Sir Launcelot and His Companions.txt
-Howard Pyle___The Story of the Champions of the Round Table.txt
-Howard Pyle___Twilight Land.txt
-Isaac Asimov___Youth.txt
 Jack London___The Little Lady of the Big House.txt
 Jack London___The Mutiny of the Elsinore.txt
 Jack London___The Night-Born.txt
@@ -434,7 +387,6 @@ Jacob Abbott___Stuyvesant.txt
 Jacob Abbott___The Teacher.txt
 Jacob Abbott___William the Conqueror.txt
 Jacob Abbott___Xerxes.txt
-James Bowker___Goblin Tales of Lancashire.txt
 James Fenimore Cooper___The Pioneers.txt
 James Fenimore Cooper___The Prairie.txt
 James Fenimore Cooper___The Red Rover.txt
@@ -446,8 +398,6 @@ James Fenimore Cooper___The Water-Witch.txt
 James Fenimore Cooper___The Wept of Wish-Ton-Wish.txt
 James Fenimore Cooper___The Wing-and-Wing.txt
 James Fenimore Cooper___Wyandotte.txt
-James Joyce___Dubliners.txt
-James Joyce___Ulysses.txt
 James Matthew Barrie___Quality Street.txt
 James Matthew Barrie___Sentimental Tommy.txt
 James Matthew Barrie___The Admirable Crichton.txt
@@ -464,13 +414,6 @@ James Otis___The Princess and Joe Potter.txt
 James Otis___The Search for the Silver City.txt
 James Otis___Toby Tyler.txt
 James Otis___Under the Liberty Tree.txt
-James Russell Lowell___The Function Of The Poet And Other Essays.txt
-James Russell Lowell___The Vision of Sir Launfal And Other Poems, Version 1.txt
-James Russell Lowell___The Vision of Sir Launfal And Other Poems, Version 2.txt
-James Russell Lowell___The Writings of James Russell Lowell in Prose and Poetry, Volume V.txt
-Jane Austen___Persuasion.txt
-Jane Austen___Pride and Prejudice.txt
-Jane Austen___Sense and Sensibility.txt
 Jerome Klapka Jerome___The Observations of Henry.txt
 Jerome Klapka Jerome___The Philosopher's Joke.txt
 Jerome Klapka Jerome___The Second Thoughts of An Idle Fellow.txt
@@ -480,9 +423,6 @@ Jerome Klapka Jerome___Three Men in a Boat.txt
 Jerome Klapka Jerome___Three Men on the Bummel.txt
 Jerome Klapka Jerome___Told After Supper.txt
 Jerome Klapka Jerome___Tommy and Co.txt
-John Bunyan___The Pharisee And The Publican.txt
-John Bunyan___The Pilgrim's Progress.txt
-John Bunyan___The Works of John Bunyan.txt
 John Dryden___His Majesties Declaration Defended.txt
 John Dryden___Palamon and Arcite.txt
 John Dryden___The Poetical Works of John Dryden, Volume 1.txt
@@ -499,13 +439,6 @@ John Galsworthy___The Skin Game.txt
 John Galsworthy___To Let.txt
 John Galsworthy___Villa Rubein and Other Stories.txt
 John Galsworthy___Windows.txt
-John Keats___Letters of John Keats to His Family and Friends.txt
-John Keats___Poems 1817.txt
-John Locke___Second Treatise of Government.txt
-John Maynard Keynes___The Economic Consequences of the Peace.txt
-John Milton___Paradise Lost.txt
-John Milton___Paradise Regained.txt
-John Milton___The Poetical Works of John Milton.txt
 John Morley___Diderot and the Encyclopædists (Vol 1 of 2).txt
 John Morley___Diderot and the Encyclopædists (Vol 2 of 2).txt
 John Morley___Indian speeches (1907-1909).txt
@@ -528,10 +461,6 @@ John Ruskin___The Two Paths.txt
 John Ruskin___Time and Tide by Weare and Tyne.txt
 John Ruskin___Unto This Last and Other Essays on Political Economy.txt
 John Ruskin___Val d'Arno.txt
-John Stuart Mill___Socialism.txt
-John Stuart Mill___The Contest in America.txt
-John Stuart Mill___The Subjection of Women.txt
-John Stuart Mill___Utilitarianism.txt
 Jonathan Swift___The Prose Works of Jonathan Swift, D.D., Volume 4.txt
 Jonathan Swift___The Prose Works of Jonathan Swift, D.D., Volume 6.txt
 Jonathan Swift___The Prose Works of Jonathan Swift, D.D., Volume 7.txt
@@ -548,19 +477,11 @@ Joseph Conrad___Under Western Eyes.txt
 Joseph Conrad___Victory.txt
 Joseph Conrad___Within the Tides.txt
 Joseph Conrad___Youth.txt
-Leigh Hunt___Stories from the Italian Poets: With Lives of the Writers, Volume 2.txt
 Lewis Carroll___Symbolic Logic.txt
 Lewis Carroll___The Game of Logic.txt
 Lewis Carroll___The Hunting of the Snark.txt
 Lewis Carroll___Three Sunsets and Other Poems.txt
 Lewis Carroll___Through the Looking-Glass.txt
-Lord Byron___The Works of Lord Byron. Vol. 4.txt
-Lord Byron___The Works of Lord Byron. Vol. 5.txt
-Lord Byron___The Works of Lord Byron. Vol. 6.txt
-Lord Byron___The Works of Lord Byron. Vol. 7.txt
-Lord Tennyson___The Last Tournament.txt
-Lord Tennyson___The Princess.txt
-Lord Tennyson___The Suppressed Poems of Alfred Lord Tennyson.txt
 Louisa May Alcott___Rose in Bloom.txt
 Louisa May Alcott___Shawl-Straps.txt
 Louisa May Alcott___Silver Pitchers: and Independence.txt
@@ -606,10 +527,6 @@ Mark Twain___Those Extraordinary Twins.txt
 Mark Twain___Tom Sawyer Abroad.txt
 Mark Twain___Tom Sawyer, Detective.txt
 Mark Twain___What Is Man? And Other Essays.txt
-Mary Shelley___Proserpine and Midas.txt
-Mary Shelley___The Last Man.txt
-Mary Stewart Daggett___The Higher Court.txt
-Michael Faraday___The Chemical History Of A Candle.txt
 Nathaniel Hawthorne___The Intelligence Office (From "Mosses From An Old Manse").txt
 Nathaniel Hawthorne___The Lily's Quest (From "Twice Told Tales").txt
 Nathaniel Hawthorne___The Man of Adamant.txt
@@ -650,10 +567,6 @@ Oscar Wilde___The Importance of Being Earnest.txt
 Oscar Wilde___The Picture of Dorian Gray.txt
 Oscar Wilde___The Soul of Man.txt
 Oscar Wilde___Vera.txt
-P B Shelley___The Complete Poetical Works of Percy Bysshe Shelley.txt
-P B Shelley___The Daemon of the World.txt
-P B Shelley___The Witch of Atlas.txt
-Percival Lowell___The Soul of the Far East.txt
 P G Wodehouse___The Little Nugget.txt
 P G Wodehouse___The Man Upstairs and Other Stories.txt
 P G Wodehouse___The Man with Two Left Feet.txt
@@ -665,21 +578,12 @@ P G Wodehouse___The White Feather.txt
 P G Wodehouse___Three Men and a Maid.txt
 P G Wodehouse___Uneasy Money.txt
 P G Wodehouse___William Tell Told Again.txt
-Philip Kindred Dick___The Eyes Have It.txt
-Philip Kindred Dick___The Gun.txt
-Philip Kindred Dick___The Skull.txt
-Philip Kindred Dick___The Variable Man.txt
 Rafael Sabatini___The Shame of Motley.txt
 Rafael Sabatini___The Snare.txt
 Rafael Sabatini___The Strolling Saint.txt
 Rafael Sabatini___The Suitors of Yvonne.txt
 Rafael Sabatini___The Tavern Knight.txt
 Rafael Sabatini___The Trampling of the Lilies.txt
-Ralph Waldo Emerson___Nature.txt
-Ralph Waldo Emerson___Poems.txt
-Ralph Waldo Emerson___Representative Men.txt
-Richard Brinsley Sheridan___The Rivals.txt
-Richard Brinsley Sheridan___The School For Scandal.txt
 R M Ballantyne___The Life of a Ship.txt
 R M Ballantyne___The Lighthouse.txt
 R M Ballantyne___The Lively Poll.txt
@@ -707,12 +611,6 @@ R M Ballantyne___Under the Waves.txt
 R M Ballantyne___Ungava.txt
 R M Ballantyne___Up in the Clouds.txt
 R M Ballantyne___Wrecked but not Ruined.txt
-Robert Browning___Men and Women.txt
-Robert Browning___Selections from the Poems and Plays of Robert Browning.txt
-Robert Browning___The Pied Piper of Hamelin.txt
-Robert Burns___The Letters of Robert Burns.txt
-Robert Frost___North of Boston.txt
-Robert Hooke___Micrographia.txt
 Robert Louis Stevenson___The Works of Robert Louis Stevenson - Swanston Edition, Volume 17.txt
 Robert Louis Stevenson___The Works of Robert Louis Stevenson - Swanston Edition, Volume 18.txt
 Robert Louis Stevenson___The Works of Robert Louis Stevenson - Swanston Edition, Volume 19.txt
@@ -737,8 +635,6 @@ Robert Louis Stevenson___Underwoods.txt
 Robert Louis Stevenson___Vailima Letters.txt
 Robert Louis Stevenson___Virginibus Puerisque.txt
 Robert Louis Stevenson___Weir of Hermiston.txt
-Robert Southey___Poems.txt
-Robert Southey___The Life of Horatio Lord Nelson.txt
 Rudyard Kipling___The Kipling Reader.txt
 Rudyard Kipling___The Light That Failed.txt
 Rudyard Kipling___The Man Who Would Be King.txt
@@ -752,13 +648,6 @@ Rudyard Kipling___Traffics and Discoveries.txt
 Rudyard Kipling___Under the Deodars.txt
 Rudyard Kipling___Verses 1889-1896.txt
 Rudyard Kipling___With The Night Mail.txt
-Samuel Taylor Coleridge___Shakespeare, Ben Jonson, Beaumont and Fletcher.txt
-Samuel Taylor Coleridge___Specimens of the Table Talk of S.T.Coleridge.txt
-Samuel Taylor Coleridge___The Complete Poetical Works of Samuel Taylor Coleridge.txt
-Samuel Taylor Coleridge___The Rime of the Ancient Mariner.txt
-Sinclair Lewis___The Innocents.txt
-Sinclair Lewis___The Job.txt
-Sinclair Lewis___The Trail of the Hawk.txt
 Sir Arthur Conan Doyle___The Last Galley.txt
 Sir Arthur Conan Doyle___The Last of the Legions and Other Tales of Long Ago.txt
 Sir Arthur Conan Doyle___The Lost World.txt
@@ -777,14 +666,6 @@ Sir Arthur Conan Doyle___The War in South Africa.txt
 Sir Arthur Conan Doyle___The White Company.txt
 Sir Arthur Conan Doyle___Through the Magic Door.txt
 Sir Arthur Conan Doyle___Uncle Bernac.txt
-Sir Francis Galton___The Art of Travel.txt
-Sir Humphry Davy___Consolations in Travel.txt
-Sir Isaac Newton___The Chronology of Ancient Kingdoms Amended.txt
-Sir Joseph Dalton Hooker___Himalayan Journals.txt
-Sir Richard Francis Burton___To the Gold Coast for Gold, Volume 2.txt
-Sir Richard Francis Burton___Two Trips to Gorilla Land and the Cataracts of the Congo, Volume 1.txt
-Sir Richard Francis Burton___Two Trips to Gorilla Land and the Cataracts of the Congo, Volume 2.txt
-Sir Richard Francis Burton___Vikram and the Vampire.txt
 Sir Walter Scott___The Fortunes of Nigel.txt
 Sir Walter Scott___The Heart of Mid-Lothian.txt
 Sir Walter Scott___The Journal of Sir Walter Scott.txt
@@ -796,10 +677,6 @@ Sir Walter Scott___The Tapestried Chamber, and Death of the Laird's Jock.txt
 Sir Walter Scott___Trial of Duncan Terig.txt
 Sir Walter Scott___Waverley.txt
 Sir Walter Scott___Woodstock; or, The Cavalier.txt
-Sir William Schwenck Gilbert___Songs of a Savoyard.txt
-Sir William Schwenck Gilbert___The Bab Ballads.txt
-Sir Winston Churchill___The River War.txt
-Sir Winston Churchill___The Story of the Malakand Field Force.txt
 Stephen Leacock___The Dawn of Canadian History - A Chronicle of Aboriginal Canada.txt
 Stephen Leacock___The Hohenzollerns in America.txt
 Stephen Leacock___The Mariner of St. Malo, A Chronicle of the Voyages of Jacques Cartier.txt
@@ -815,7 +692,6 @@ Thomas Carlyle___Sartor Resartus.txt
 Thomas Carlyle___The French Revolution.txt
 Thomas Carlyle___The Life of Friedrich Schiller.txt
 Thomas Carlyle___The Life of John Sterling.txt
-Thomas Crofton Croker___A Walk from London to Fulham.txt
 Thomas Hardy___The Trumpet-Major.txt
 Thomas Hardy___The Well-Beloved.txt
 Thomas Hardy___The Woodlanders.txt
@@ -838,8 +714,6 @@ Thomas Henry Huxley___The Rise and Progress of Palaeontology.txt
 Thomas Henry Huxley___Time and Life.txt
 Thomas Henry Huxley___William Harvey And The Discovery Of The Circulation Of The Blood.txt
 Thomas Henry Huxley___Yeast.txt
-Thomas Robert Malthus___Observations on the Effects of the Corn Laws, and of a Rise or Fall in the Price of Corn on the Agriculture and General Wealth of the Country.txt
-Thomas Robert Malthus___The Grounds of an Opinion on the Policy of Restricting the Importation of Foreign Corn.txt
 Thornton Waldo Burgess___The Adventures of Old Mr. Toad.txt
 Thornton Waldo Burgess___The Adventures of Paddy the Beaver.txt
 Thornton Waldo Burgess___The Adventures of Poor Mrs. Quack.txt
@@ -850,16 +724,6 @@ Thornton Waldo Burgess___The Boy Scouts in A Trapper's Camp.txt
 Thornton Waldo Burgess___The Burgess Animal Book for Children.txt
 Thornton Waldo Burgess___The Burgess Bird Book for Children.txt
 Thornton Waldo Burgess___Whitefoot the Wood Mouse.txt
-T S Eliot___Prufrock and Other Observations.txt
-T S Eliot___The Waste Land.txt
-Ulysses Grant___State of the Union Addresses of Ulysses S. Grant.txt
-Virginia Woolf___Night and Day.txt
-Virginia Woolf___The Voyage Out.txt
-Walter de la Mare___The Listeners and Other Poems.txt
-Walter de la Mare___The Return.txt
-Walter de la Mare___The Three Mulla-mulgars.txt
-Walt Whitman___The Patriotic Poems of Walt Whitman.txt
-Walt Whitman___The Wound Dresser.txt
 Washington Irving___The Legend of Sleepy Hollow.txt
 Washington Irving___The Life and Voyages of Christopher Columbus (Vol. II).txt
 Washington Irving___The Life of George Washington, Volume I.txt
@@ -876,7 +740,6 @@ Wilkie Collins___The New Magdalen.txt
 Wilkie Collins___The Queen of Hearts.txt
 Wilkie Collins___The Two Destinies.txt
 Wilkie Collins___The Woman in White.txt
-William Blake___Songs of Innocence and Songs of Experience.txt
 William Butler Yeats___The Hour Glass.txt
 William Butler Yeats___The Land Of Heart's Desire.txt
 William Butler Yeats___The Secret Rose.txt
@@ -911,14 +774,10 @@ William Dean Howells___The Story of a Play.txt
 William Dean Howells___The White Mr. Longfellow.txt
 William Dean Howells___Through the Eye of the Needle.txt
 William Dean Howells___Venetian Life.txt
-William Ewart Gladstone___On Books and the Housing of Them.txt
 William Henry Hudson___Far Away and Long Ago.txt
 William Henry Hudson___Green Mansions.txt
 William Henry Hudson___The Naturalist in La Plata.txt
 William Henry Hudson___The Purple Land.txt
-William J Long___Ways of Wood Folk.txt
-William J Long___Wilderness Ways.txt
-William J Long___Wood Folk at School.txt
 William Makepeace Thackeray___The History of Samuel Titmarsh.txt
 William Makepeace Thackeray___The Newcomes.txt
 William Makepeace Thackeray___The Paris Sketch Book Of Mr. M. A. Titmarsh.txt
@@ -928,14 +787,10 @@ William Makepeace Thackeray___The Tremendous Adventures of Major Gahagan.txt
 William Makepeace Thackeray___The Virginians.txt
 William Makepeace Thackeray___The Wolves and the Lamb.txt
 William Makepeace Thackeray___Vanity Fair.txt
-William Penn___A Sermon Preached at the Quaker's Meeting House.txt
 William Somerset Maugham___The Magician.txt
 William Somerset Maugham___The Making of a Saint.txt
 William Somerset Maugham___The Moon and Sixpence.txt
 William Somerset Maugham___The Trembling of a Leaf.txt
-William Wordsworth___The Poetical Works of William Wordsworth, Volume 3.txt
-William Wordsworth___The Poetical Works of William Wordsworth, Volume 4.txt
-William Wordsworth___The Prose Works of William Wordsworth.txt
 William Wymark Jacobs___Striking Hard, Deep Waters, Part 10.txt
 William Wymark Jacobs___The Bequest, Ship's Company, Part 6.txt
 William Wymark Jacobs___The Boatswain's Mate, Captains All, Book 2.txt

@@ -5,7 +5,7 @@ import shutil
 import os
 
 authorList = {}
-with open('filenames.txt', 'r') as f:
+with open('filenames_train.txt', 'r') as f:
     for filename in f:
         author = filename[:filename.index("_")]
         lst = authorList.get(author, [])
