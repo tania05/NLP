@@ -15,8 +15,10 @@ def load_data(data_type, full_doc=False):
     with open('./Gutenberg/filenames_' +data_type+'.txt', 'r') as filenames:
         for filename in filenames:
             author = filename[:filename.index("_")]
-            if author not in authorlist:
+            if author not in authorlist and len(authorlist) <10:
                 authorlist.append(author)
+            if author not in authorlist:
+                continue
             with open('./Gutenberg/'+data_type+'/'+ filename.strip(), 'r' ) as f:
                 if full_doc:
                     data = f.read().decode('iso-8859-1')
@@ -29,11 +31,11 @@ def load_data(data_type, full_doc=False):
 
     return [x, y]
 
-data_train, y_train = load_data('train', full_doc=True)
+data_train, y_train = load_data('train', full_doc=False)
 print len(data_train)
 print len(y_train)
 
-data_test, y_test = load_data('test', full_doc=True)
+data_test, y_test = load_data('test', full_doc=False)
 print len(data_test)
 print len(y_test)
 
@@ -46,7 +48,7 @@ feature_names = vectorizer.get_feature_names()
 print X_train.shape
 print len(feature_names)
 
-# clf = svm.SVC()
+# clf = svm.LinearSVC()
 # clf = BernoulliNB()
 clf = MultinomialNB()
 clf.fit(X_train, y_train)
